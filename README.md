@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yasxjain
-- 👀 Interested in Going Away From this FU#KING World!
+- 👀 Interested in Programming Languages.
 - 🌱 Currently learning To Live With The Help OF Computers & Machines.
+- Focusing on Java, Data Structures and Algorithms and Mern Stack.
 
 
 <!---
